@@ -11,3 +11,9 @@ git config  --global user.email "365177686@qq.com"
 git config --get user.name
 git config --git user.email 
 
+克隆一个项目 
+git clone  仓库地址
+查看本地分支  或者仓库分支
+git branch  本地  git branch -a   远程仓库分支
+查看远程仓库地址
+git  remote -v
